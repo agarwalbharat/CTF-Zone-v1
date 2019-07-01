@@ -1,0 +1,26 @@
+body {
+    background: #000;
+    padding:30px;
+    font-size: 9pt;
+    font-family: fixedsys, LucidaTerminal, monospace;
+    color: #FFFFFF;
+    text-align: left;
+    overflow:auto;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+h1 {
+    margin-bottom:-10px;
+    margin-top:-10px;
+	font-size:50px
+}
+a{
+    color:blue;
+}
+a:hover{
+    color:red;
+}
+
+input{
+    height: 20px;
+}
